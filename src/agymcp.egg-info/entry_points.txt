@@ -1,0 +1,2 @@
+[console_scripts]
+agymcp = agymcp.cli:main
